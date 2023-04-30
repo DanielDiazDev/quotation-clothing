@@ -1,0 +1,11 @@
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\bin\Debug\QuotationClothing.exe.config
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\bin\Debug\QuotationClothing.exe
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\bin\Debug\QuotationClothing.pdb
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.Properties.Resources.resources
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.exe
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.pdb
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\QuotationClothing\QuotationClothing\obj\Debug\QuotationClothing.Form1.resources
